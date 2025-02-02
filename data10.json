@@ -1,0 +1,1657 @@
+{
+    "regionIds": {
+        "city": 54296,
+        "state": 9,
+        "county": 2841,
+        "neighborhood": 273571
+    },
+    "structuredAmenities": {
+        "buildingAmenities": {
+            "title": "Building Amenities",
+            "amenityGroups": [
+                {
+                    "title": "Outdoor common areas",
+                    "amenities": [
+                        "Patio"
+                    ]
+                },
+                {
+                    "title": "Security",
+                    "amenities": [
+                        "Gated Entry"
+                    ]
+                },
+                {
+                    "title": "Services & facilities",
+                    "amenities": [
+                        "Elevator",
+                        "On-Site Management",
+                        "Online Maintenance Portal",
+                        "Online Rent Payment"
+                    ]
+                },
+                {
+                    "title": "View description",
+                    "amenities": [
+                        "City"
+                    ]
+                }
+            ]
+        },
+        "unitFeatures": {
+            "title": "Unit Features",
+            "amenityGroups": [
+                {
+                    "title": "Appliances",
+                    "amenities": [
+                        "Dishwasher",
+                        "Garbage Disposal",
+                        "Microwave Oven",
+                        "Oven",
+                        "Range",
+                        "Refrigerator",
+                        "Trash Compactor"
+                    ]
+                },
+                {
+                    "title": "Cooling",
+                    "amenities": [
+                        "Ceiling Fan"
+                    ]
+                },
+                {
+                    "title": "Flooring",
+                    "amenities": [
+                        "Carpet",
+                        "Vinyl"
+                    ]
+                },
+                {
+                    "title": "Heating",
+                    "amenities": [
+                        "Electric"
+                    ]
+                },
+                {
+                    "title": "Other",
+                    "amenities": [
+                        "Patio Balcony"
+                    ]
+                }
+            ]
+        },
+        "policies": {
+            "title": "Policies",
+            "amenityGroups": [
+                {
+                    "title": "Parking",
+                    "amenities": [
+                        "Underground Garage"
+                    ]
+                }
+            ]
+        },
+        "specialFeatures": [
+            "Parking",
+            "Shared"
+        ]
+    },
+    "buildingAttributes": {
+        "customAmenities": "Parking",
+        "customPropertyAmenities": [
+            "Parking"
+        ],
+        "customUnitAmenities": null,
+        "appliances": [
+            "Refrigerator",
+            "Oven",
+            "Range",
+            "MicrowaveOven",
+            "Dishwasher",
+            "GarbageDisposal",
+            "TrashCompactor"
+        ],
+        "floorCoverings": [
+            "Carpet",
+            "Vinyl"
+        ],
+        "communicationTypes": [
+            "Unknown"
+        ],
+        "hasCeilingFan": true,
+        "hasFireplace": null,
+        "hasPatioBalcony": true,
+        "isFurnished": null,
+        "communityRooms": [
+            "Unknown"
+        ],
+        "sportsCourts": [
+            "Unknown"
+        ],
+        "hasBicycleStorage": null,
+        "hasGuestSuite": null,
+        "hasStorage": null,
+        "hasPetPark": null,
+        "hasTwentyFourHourMaintenance": null,
+        "hasDryCleaningDropOff": null,
+        "hasOnlineRentPayment": true,
+        "hasOnlineMaintenancePortal": true,
+        "hasOnsiteManagement": true,
+        "hasPackageService": null,
+        "hasValetTrash": null,
+        "hasSpanishSpeakingStaff": null,
+        "securityTypes": [
+            "GatedEntry"
+        ],
+        "viewType": [
+            "City"
+        ],
+        "hasHotTub": null,
+        "hasSauna": null,
+        "hasSwimmingPool": null,
+        "hasAssistedLiving": false,
+        "hasDisabledAccess": null,
+        "hasSharedLaundry": true,
+        "outdoorCommonAreas": [
+            "Patio"
+        ],
+        "hasBarbecue": null,
+        "heatingSource": "Electric",
+        "petPolicies": [
+            "Cats",
+            "SmallDogs",
+            "LargeDogs"
+        ],
+        "hasElevator": true,
+        "parkingDescription": null,
+        "petPolicyDescription": null,
+        "parkingRentDescription": null,
+        "isSmokeFree": null,
+        "applicationFee": null,
+        "administrativeFee": null,
+        "depositFeeMin": 500,
+        "depositFeeMax": 500,
+        "airConditioning": "Unknown",
+        "leaseTerms": [
+            "Unknown"
+        ],
+        "parkingTypes": [
+            "UndergroundGarage"
+        ],
+        "utilitiesIncluded": [
+            "Unknown"
+        ],
+        "detailedParkingPolicies": null,
+        "detailedPetPolicy": {
+            "general": null,
+            "petPolicies": [
+                {
+                    "allowed": true,
+                    "comment": null,
+                    "deposit": 0,
+                    "description": null,
+                    "feeRangeMax": null,
+                    "feeRangeMin": null,
+                    "maxNumberAllowed": 2,
+                    "maxWeightAllowed": null,
+                    "monthlyFee": null,
+                    "oneTimeFee": null,
+                    "petSize": "large",
+                    "petType": "dogs",
+                    "restriction": null
+                },
+                {
+                    "allowed": true,
+                    "comment": null,
+                    "deposit": 0,
+                    "description": null,
+                    "feeRangeMax": null,
+                    "feeRangeMin": null,
+                    "maxNumberAllowed": 2,
+                    "maxWeightAllowed": null,
+                    "monthlyFee": null,
+                    "oneTimeFee": null,
+                    "petSize": "small",
+                    "petType": "dogs",
+                    "restriction": null
+                },
+                {
+                    "allowed": true,
+                    "comment": null,
+                    "deposit": 0,
+                    "description": null,
+                    "feeRangeMax": null,
+                    "feeRangeMin": null,
+                    "maxNumberAllowed": 2,
+                    "maxWeightAllowed": null,
+                    "monthlyFee": null,
+                    "oneTimeFee": null,
+                    "petSize": null,
+                    "petType": "cats",
+                    "restriction": null
+                }
+            ]
+        },
+        "leaseLengths": null,
+        "rentalProductType": "ZRM",
+        "unitCount": 70,
+        "incomeRestrictions": null,
+        "communityType": "RENTAL",
+        "rentalCostAndFeesDisclaimer": null
+    },
+    "currency": "USD",
+    "breadcrumbs": [
+        {
+            "path": "https://www.zillow.com/ca/apartments/",
+            "text": "CA",
+            "gaLabel": "State"
+        },
+        {
+            "path": "https://www.zillow.com/san-diego-county-ca/apartments/",
+            "text": "San Diego County",
+            "gaLabel": "County"
+        },
+        {
+            "path": "https://www.zillow.com/san-diego-ca/apartments/",
+            "text": "San Diego",
+            "gaLabel": "City"
+        },
+        {
+            "path": "https://www.zillow.com/san-diego-ca-92101/apartments/",
+            "text": "92101",
+            "gaLabel": "Zipcode"
+        },
+        {
+            "path": "https://www.zillow.com/east-village-san-diego-ca/apartments/",
+            "text": "East Village",
+            "gaLabel": "Neighborhood"
+        }
+    ],
+    "buildingName": "City Villas Apartments",
+    "streetAddress": "841 16th St",
+    "latitude": 32.714251,
+    "longitude": -117.149195,
+    "streetViewTileImageUrlLocationModuleLatLong": "https://maps.googleapis.com/maps/api/streetview?location=32.714251,-117.149195&size=427x115&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=3fTTfwmxXfU1S6aOrGvd6bDVdQs=",
+    "streetViewTileImageUrlLocationModuleAddress": "https://maps.googleapis.com/maps/api/streetview?location=841%2016th%20St%2C%20San%20Diego%2C%20CA%2092101&size=427x115&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=A4-zlw_BlibFQv00EtOgoSzNzbs=",
+    "lotId": "1001475373",
+    "streetViewMetadataUrlMediaWallLatLong": "https://maps.googleapis.com/maps/api/streetview/metadata?location=32.714251,-117.149195&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=mKryAbGNPhavi55uz75_5ThSJc8=",
+    "streetViewMetadataUrlMediaWallAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=841%2016th%20St%2C%20San%20Diego%2C%20CA%2092101&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=aFTREaYXL36GwTvh0aU9p66npSg=",
+    "mapTileGoogleMapUrlLocationModule": "https://maps.googleapis.com/maps/api/staticmap?center=32.714251,-117.149195&zoom=14&size=427x216&maptype=roadmap&key=AIzaSyD3b0WRWC4TBB4y3ksMtwpyV6FABvaIF7c&signature=1jOF1Fa3uUVe6T8uG2qKSc5ZWO0=",
+    "mapTileGoogleMapUrlFullWidthMax": "https://maps.googleapis.com/maps/api/staticmap?center=32.714251,-117.149195&zoom=16&size=1920x234&maptype=roadmap&key=AIzaSyD3b0WRWC4TBB4y3ksMtwpyV6FABvaIF7c&signature=annLY6OjiZw5FA755Rz0eAUIOHo=",
+    "address": {
+        "streetAddress": "841 16th St",
+        "city": "San Diego",
+        "state": "CA",
+        "zipcode": "92101",
+        "neighborhood": "East Village"
+    },
+    "streetViewTileImageUrlHalfWidthLatLong": "https://maps.googleapis.com/maps/api/streetview?location=32.714251,-117.149195&size=512x234&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=bATuCE60bpUbbLz9XFhyDJdl7lg=",
+    "streetViewTileImageUrlHalfWidthAddress": "https://maps.googleapis.com/maps/api/streetview?location=841%2016th%20St%2C%20San%20Diego%2C%20CA%2092101&size=512x234&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=Wiqxz1bwPyYGQa2Y0EJjw-WQuY4=",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92101",
+    "isWaitlisted": false,
+    "contactInfo": {
+        "contactType": "FOR_RENT",
+        "providerListingID": "145gcnzq5t48r",
+        "rentalApplicationsAcceptedType": "NOT_ELIGIBLE",
+        "agentFullName": "Melissa Chruszch"
+    },
+    "isLandlordLiaisonProgram": false,
+    "buildingType": "FOR_RENT",
+    "instantTourTypes": [],
+    "isInstantTourEnabled": false,
+    "bestGuessTimezone": "America/Los_Angeles",
+    "rentalInstantTour": null,
+    "photoCount": 1,
+    "amenitiesVRModels": null,
+    "videos": [],
+    "galleryPhotos": [
+        {
+            "caption": "street view",
+            "mixedSources": {
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-d_d.webp",
+                        "width": 800
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-o_a.webp",
+                        "width": 1024
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1344_1008.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1536_1152.webp",
+                        "width": 1536
+                    }
+                ],
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-d_d.jpg",
+                        "width": 800
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-o_a.jpg",
+                        "width": 1024
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1344_1008.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1536_1152.jpg",
+                        "width": 1536
+                    }
+                ]
+            },
+            "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-p_d.jpg",
+            "sources": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-d_d.jpg",
+                    "width": 800
+                },
+                {
+                    "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-o_a.jpg",
+                    "width": 1024
+                },
+                {
+                    "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1344_1008.jpg",
+                    "width": 1344
+                },
+                {
+                    "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1536_1152.jpg",
+                    "width": 1536
+                }
+            ]
+        }
+    ],
+    "galleryAmenityPhotos": [
+        {
+            "caption": "street view",
+            "mixedSources": {
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-d_d.webp",
+                        "width": 800
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-o_a.webp",
+                        "width": 1024
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1344_1008.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1536_1152.webp",
+                        "width": 1536
+                    }
+                ],
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-d_d.jpg",
+                        "width": 800
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-o_a.jpg",
+                        "width": 1024
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1344_1008.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-uncropped_scaled_within_1536_1152.jpg",
+                        "width": 1536
+                    }
+                ]
+            },
+            "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-p_d.jpg"
+        }
+    ],
+    "fullAddress": "841 16th St, San Diego, CA 92101",
+    "bdpUrl": "/apartments/san-diego-ca/city-villas-apartments/5XjPbw/",
+    "zpid": "442726410",
+    "buildingPhoneNumber": "(858) 544-2472",
+    "county": "San Diego County",
+    "listingFeatureType": "featured-ppc",
+    "ungroupedUnits": null,
+    "floorPlans": [
+        {
+            "zpid": "442726410",
+            "units": [
+                {
+                    "unitNumber": "Unit 841303",
+                    "zpid": "442726410",
+                    "housingConnector": false,
+                    "housingConnectorExclusive": false,
+                    "beds": 0,
+                    "vrModel": null,
+                    "studentHousingType": null,
+                    "availableFrom": "0",
+                    "hasApprovedThirdPartyVirtualTour": false,
+                    "price": 2200,
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "thirdPartyVirtualTour": null,
+                    "unitVRModel": null,
+                    "sqft": null
+                },
+                {
+                    "unitNumber": "Unit 841103",
+                    "zpid": "442726415",
+                    "housingConnector": false,
+                    "housingConnectorExclusive": false,
+                    "beds": 0,
+                    "vrModel": null,
+                    "studentHousingType": null,
+                    "availableFrom": "0",
+                    "hasApprovedThirdPartyVirtualTour": false,
+                    "price": 2200,
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "thirdPartyVirtualTour": null,
+                    "unitVRModel": null,
+                    "sqft": null
+                },
+                {
+                    "unitNumber": "Unit 841203",
+                    "zpid": "442726413",
+                    "housingConnector": false,
+                    "housingConnectorExclusive": false,
+                    "beds": 0,
+                    "vrModel": null,
+                    "studentHousingType": null,
+                    "availableFrom": "0",
+                    "hasApprovedThirdPartyVirtualTour": false,
+                    "price": 2200,
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "thirdPartyVirtualTour": null,
+                    "unitVRModel": null,
+                    "sqft": null
+                }
+            ],
+            "videos": [],
+            "floorPlanUnitPhotos": [
+                {
+                    "caption": "street view",
+                    "mixedSources": {
+                        "webp": [
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_384.webp",
+                                "width": 384
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_576.webp",
+                                "width": 576
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_768.webp",
+                                "width": 768
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_960.webp",
+                                "width": 960
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1152.webp",
+                                "width": 1152
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1344.webp",
+                                "width": 1344
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1536.webp",
+                                "width": 1536
+                            }
+                        ],
+                        "jpeg": [
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_384.jpg",
+                                "width": 384
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_576.jpg",
+                                "width": 576
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_768.jpg",
+                                "width": 768
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_960.jpg",
+                                "width": 960
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1152.jpg",
+                                "width": 1152
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1344.jpg",
+                                "width": 1344
+                            },
+                            {
+                                "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1536.jpg",
+                                "width": 1536
+                            }
+                        ]
+                    },
+                    "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-f_b.jpg"
+                }
+            ],
+            "floorplanVRModel": null,
+            "unitSpecialOffers": null,
+            "minPrice": 2200,
+            "maxPrice": 2200,
+            "beds": 0,
+            "isSharedOrPrivate": null,
+            "studentHousingTitle": null,
+            "unitLeaseTerms": null,
+            "maloneId": null,
+            "availableFrom": "0",
+            "baths": 1,
+            "name": "0X1",
+            "photos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/7ab25cf574ca9840d3cc6299b93bd6f1-r_a.jpg"
+                },
+                {
+                    "url": "https://photos.zillowstatic.com/fp/7ab25cf574ca9840d3cc6299b93bd6f1-f_b.jpg"
+                }
+            ],
+            "sqft": null,
+            "thirdPartyVirtualTour": null,
+            "vrModels": [],
+            "amenityDetails": [],
+            "leaseTerm": "6 months, 7 months, 8 months, 9 months, 10 months, 11 months, 12 months",
+            "depositsAndFees": null,
+            "description": "6 months, 7 months, 8 months, 9 months, 10 months, 11 months, 12 months"
+        }
+    ],
+    "metaData": {
+        "seoTests": [],
+        "seoTags": {
+            "h1": "City Villas Apartments",
+            "title": "City Villas Apartments - 841 16th St San Diego CA | Zillow",
+            "description": "City Villas Apartments apartment community at 841 16th St San Diego CA, offers units from  -  sqft, a Pet-friendly, Shared laundry, and Electric heating. Explore availability."
+        }
+    },
+    "nearbyCities": [
+        {
+            "buildingSearchUrl": {
+                "path": "/national-city-ca/apartments/"
+            },
+            "name": "National City"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/coronado-ca/apartments/"
+            },
+            "name": "Coronado"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/lemon-grove-ca/apartments/"
+            },
+            "name": "Lemon Grove"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca/apartments/"
+            },
+            "name": "San Diego"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/bonita-ca/apartments/"
+            },
+            "name": "Bonita"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/la-mesa-ca/apartments/"
+            },
+            "name": "La Mesa"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/imperial-beach-ca/apartments/"
+            },
+            "name": "Imperial Beach"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/chula-vista-ca/apartments/"
+            },
+            "name": "Chula Vista"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/spring-valley-ca/apartments/"
+            },
+            "name": "Spring Valley"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/santee-ca/apartments/"
+            },
+            "name": "Santee"
+        }
+    ],
+    "nearbyNeighborhoods": [
+        {
+            "buildingSearchUrl": {
+                "path": "/east-village-san-diego-ca/apartments/"
+            },
+            "name": "East Village"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/gaslamp-quarter-san-diego-ca/apartments/"
+            },
+            "name": "Gaslamp Quarter"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/sherman-heights-san-diego-ca/apartments/"
+            },
+            "name": "Sherman Heights"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/horton-plaza-san-diego-ca/apartments/"
+            },
+            "name": "Horton Plaza"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/cortez-hill-san-diego-ca/apartments/"
+            },
+            "name": "Cortez Hill"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/core-columbia-san-diego-ca/apartments/"
+            },
+            "name": "Core-Columbia"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/marina-san-diego-ca/apartments/"
+            },
+            "name": "Marina"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/grant-hill-san-diego-ca/apartments/"
+            },
+            "name": "Grant Hill"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/golden-hill-san-diego-ca/apartments/"
+            },
+            "name": "Golden Hill"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/little-italy-san-diego-ca/apartments/"
+            },
+            "name": "Little Italy"
+        }
+    ],
+    "country": "USA",
+    "nearbyZipcodes": [
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92134/apartments/"
+            },
+            "name": "92134"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92132/apartments/"
+            },
+            "name": "92132"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92101/apartments/"
+            },
+            "name": "92101"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92102/apartments/"
+            },
+            "name": "92102"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92113/apartments/"
+            },
+            "name": "92113"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/coronado-ca-92155/apartments/"
+            },
+            "name": "92155"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92104/apartments/"
+            },
+            "name": "92104"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92136/apartments/"
+            },
+            "name": "92136"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92103/apartments/"
+            },
+            "name": "92103"
+        },
+        {
+            "buildingSearchUrl": {
+                "path": "/san-diego-ca-92140/apartments/"
+            },
+            "name": "92140"
+        }
+    ],
+    "nearbyBuildingLinks": [
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/av8/BJtCHq/",
+                "text": "AV8"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/canyon-ridge/5XjR43/",
+                "text": "Canyon Ridge"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/felix-at-the-society/C6mF7s/",
+                "text": "Felix at The Society"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/mira-monte/5XjG7S/",
+                "text": "Mira Monte"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/vora-mission-valley/BJ2BLF/",
+                "text": "Vora Mission Valley"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/palisade-utc/ChXkPd/",
+                "text": "Palisade UTC"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/the-vive-collection/CgrC24/",
+                "text": "The Vive Collection"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/palms-fka-riviera-de-ville/5XkH7B/",
+                "text": "Palms fka Riviera de Ville"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/avino/65h9kg/",
+                "text": "Avino"
+            }
+        },
+        {
+            "buildingUrl": {
+                "path": "/apartments/san-diego-ca/the-wyatt-makers-quarter/9Mkqt5/",
+                "text": "The Wyatt Makers Quarter"
+            }
+        }
+    ],
+    "amenitySummary": {
+        "buildingDetails": [
+            "70 units",
+            "built in 1989"
+        ],
+        "laundry": [
+            "Shared laundry"
+        ]
+    },
+    "comps": {
+        "BuildingDataT": null,
+        "BuildingDataU": null,
+        "compRecentlySoldHomes": null,
+        "compBuildings": [
+            {
+                "lotId": "1001554973",
+                "bdpLink": "/apartments/san-diego-ca/city-view/5Xk5mQ/",
+                "bedroomGroups": [
+                    {
+                        "beds": "1"
+                    },
+                    {
+                        "beds": "2"
+                    }
+                ],
+                "buildingAddress": "840 17th St, San Diego, CA",
+                "buildingName": "City View",
+                "latitude": 32.71426,
+                "longitude": -117.148926,
+                "maxPrice": 2827,
+                "minBaths": 1,
+                "minBeds": 1,
+                "minLivingArea": 493,
+                "minPrice": 2136,
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/fp/235582e4629edd5a54c2aaf747c63b36-p_i.jpg"
+                },
+                "photoCount": null,
+                "showUpdateTime": true,
+                "listingMetadata": {
+                    "BuildingDataG": "false",
+                    "BuildingDataH": "false",
+                    "BuildingDataI": "false",
+                    "BuildingDataJ": "false",
+                    "BuildingDataL": "false",
+                    "BuildingDataM": "false",
+                    "BuildingDataN": "false",
+                    "BuildingDataO": "false",
+                    "BuildingDataP": "false"
+                },
+                "providerListingId": "4acbc69fhr00c"
+            },
+            {
+                "lotId": "2739696449",
+                "bdpLink": "/apartments/san-diego-ca/the-artisan/ChG3kR/",
+                "bedroomGroups": [
+                    {
+                        "beds": "0"
+                    },
+                    {
+                        "beds": "1"
+                    },
+                    {
+                        "beds": "2"
+                    }
+                ],
+                "buildingAddress": "1601 Broadway, San Diego, CA",
+                "buildingName": "The Artisan",
+                "latitude": 32.71529,
+                "longitude": -117.14932,
+                "maxPrice": 4895,
+                "minBaths": 1,
+                "minBeds": 0,
+                "minLivingArea": 550,
+                "minPrice": 2299,
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/fp/964d2c52450c41084d5c78eccf9f3932-p_i.jpg"
+                },
+                "photoCount": null,
+                "showUpdateTime": true,
+                "listingMetadata": {
+                    "BuildingDataG": "false",
+                    "BuildingDataH": "false",
+                    "BuildingDataI": "false",
+                    "BuildingDataJ": "false",
+                    "BuildingDataL": "false",
+                    "BuildingDataM": "false",
+                    "BuildingDataN": "false",
+                    "BuildingDataO": "false",
+                    "BuildingDataP": "false"
+                },
+                "providerListingId": "34wrgacpwn5dv"
+            },
+            {
+                "lotId": "2734064846",
+                "bdpLink": "/b/the-wyatt-makers-quarter-san-diego-ca-CgHBDm/",
+                "bedroomGroups": [
+                    {
+                        "beds": "0"
+                    },
+                    {
+                        "beds": "1"
+                    },
+                    {
+                        "beds": "2"
+                    }
+                ],
+                "buildingAddress": "1509 Broadway, San Diego, CA",
+                "buildingName": "The Wyatt Makers Quarter",
+                "latitude": 32.715122,
+                "longitude": -117.149994,
+                "maxPrice": 4862,
+                "minBaths": 1,
+                "minBeds": 0,
+                "minLivingArea": 564,
+                "minPrice": 2398,
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/fp/e86b85a3daa632d9d62f0125e0c1a4bd-p_i.jpg"
+                },
+                "photoCount": null,
+                "showUpdateTime": true,
+                "listingMetadata": {
+                    "BuildingDataG": "false",
+                    "BuildingDataH": "false",
+                    "BuildingDataI": "false",
+                    "BuildingDataJ": "false",
+                    "BuildingDataL": "false",
+                    "BuildingDataM": "false",
+                    "BuildingDataN": "false",
+                    "BuildingDataO": "false",
+                    "BuildingDataP": "false"
+                },
+                "providerListingId": "3mj7rf2ae5kv1"
+            },
+            {
+                "lotId": "2410856166",
+                "bdpLink": "/apartments/san-diego-ca/comfort-at-the-leo/BXCx3G/",
+                "bedroomGroups": [
+                    {
+                        "beds": "1"
+                    }
+                ],
+                "buildingAddress": "715 15th St, San Diego, CA",
+                "buildingName": "Comfort at the Leo",
+                "latitude": 32.7128,
+                "longitude": -117.15008,
+                "maxPrice": 2175,
+                "minBaths": 1,
+                "minBeds": 1,
+                "minLivingArea": 738,
+                "minPrice": 2175,
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/fp/f69b7176ea36c4c71e019d7d74eda301-p_i.jpg"
+                },
+                "photoCount": null,
+                "showUpdateTime": true,
+                "listingMetadata": {
+                    "BuildingDataG": "false",
+                    "BuildingDataH": "false",
+                    "BuildingDataI": "false",
+                    "BuildingDataJ": "false",
+                    "BuildingDataL": "false",
+                    "BuildingDataM": "false",
+                    "BuildingDataN": "false",
+                    "BuildingDataO": "false",
+                    "BuildingDataP": "false"
+                },
+                "providerListingId": "12j9evshz3u78"
+            },
+            {
+                "lotId": "1001702657",
+                "bdpLink": "/b/1480-broadway-san-diego-ca-5XmLHN/",
+                "bedroomGroups": [
+                    {
+                        "beds": "1"
+                    },
+                    {
+                        "beds": "2"
+                    }
+                ],
+                "buildingAddress": "1480 Broadway, San Diego, CA",
+                "buildingName": "1480 Broadway",
+                "latitude": 32.715885,
+                "longitude": -117.15069,
+                "maxPrice": 3350,
+                "minBaths": 1,
+                "minBeds": 1,
+                "minLivingArea": 913,
+                "minPrice": 2795,
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/fp/12b6eca4d5c922e5d961bebd9a2440e5-p_i.jpg"
+                },
+                "photoCount": null,
+                "showUpdateTime": true,
+                "listingMetadata": {
+                    "BuildingDataG": "false",
+                    "BuildingDataH": "false",
+                    "BuildingDataI": "false",
+                    "BuildingDataJ": "false",
+                    "BuildingDataL": "false",
+                    "BuildingDataM": "false",
+                    "BuildingDataN": "false",
+                    "BuildingDataO": "false",
+                    "BuildingDataP": "false"
+                },
+                "providerListingId": "67q6d1qdtsjm"
+            },
+            {
+                "lotId": "1001479688",
+                "bdpLink": "/apartments/san-diego-ca/golden-pacific-apartments/5XjRPz/",
+                "bedroomGroups": [
+                    {
+                        "beds": "1"
+                    },
+                    {
+                        "beds": "2"
+                    }
+                ],
+                "buildingAddress": "1015 19th St, San Diego, CA",
+                "buildingName": "Golden Pacific Apartments",
+                "latitude": 32.716038,
+                "longitude": -117.14661,
+                "maxPrice": 2895,
+                "minBaths": 1,
+                "minBeds": 1,
+                "minLivingArea": 751,
+                "minPrice": 2490,
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/fp/a0f1993a579517dc11ff4df19cd3066c-p_i.jpg"
+                },
+                "photoCount": null,
+                "showUpdateTime": true,
+                "listingMetadata": {
+                    "BuildingDataG": "false",
+                    "BuildingDataH": "false",
+                    "BuildingDataI": "false",
+                    "BuildingDataJ": "false",
+                    "BuildingDataL": "false",
+                    "BuildingDataM": "false",
+                    "BuildingDataN": "false",
+                    "BuildingDataO": "false",
+                    "BuildingDataP": "false"
+                },
+                "providerListingId": "410jmh49xe9pw"
+            },
+            {
+                "lotId": "1045828449",
+                "bdpLink": "/apartments/san-diego-ca/form-15/5hQPMk/",
+                "bedroomGroups": [
+                    {
+                        "beds": "0"
+                    },
+                    {
+                        "beds": "1"
+                    }
+                ],
+                "buildingAddress": "1450 Market St, San Diego, CA",
+                "buildingName": "Form 15",
+                "latitude": 32.711742,
+                "longitude": -117.15086,
+                "maxPrice": 2569,
+                "minBaths": 1,
+                "minBeds": 0,
+                "minLivingArea": 506,
+                "minPrice": 2110,
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/fp/3361413cfb4009c9887b9b8e7e39726b-p_i.jpg"
+                },
+                "photoCount": null,
+                "showUpdateTime": true,
+                "listingMetadata": {
+                    "BuildingDataG": "false",
+                    "BuildingDataH": "false",
+                    "BuildingDataI": "false",
+                    "BuildingDataJ": "false",
+                    "BuildingDataL": "false",
+                    "BuildingDataM": "false",
+                    "BuildingDataN": "false",
+                    "BuildingDataO": "false",
+                    "BuildingDataP": "false"
+                },
+                "providerListingId": "27rbnjampcg3f"
+            }
+        ]
+    },
+    "marketInsightsUrl": {
+        "path": "/rental-manager/market-trends/san-diego-ca/",
+        "text": "San Diego"
+    },
+    "isLowIncome": false,
+    "isSeniorHousing": false,
+    "isStudentHousing": false,
+    "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyPinnaclePackage"
+    ],
+    "communitySubType": null,
+    "ppcLink": {
+        "path": "https://www.zillow.com/renter-hub/clickRedirect?alias=145gcnzq5t48r&r=zillow&mobileFriendly=true",
+        "mobile": true
+    },
+    "neighborhood": "East Village",
+    "reviewsInfo": null,
+    "housingConnector": {
+        "hcLink": {
+            "path": "https://www.zillow.com/renter-hub/clickRedirect?alias=145gcnzq5t48r&r=zillow&mobileFriendly=true",
+            "mobile": true
+        }
+    },
+    "screeningCriteria": null,
+    "showIncomeRestrictedCTA": false,
+    "buildingRentalPremiumPackagesInfo": [
+        {
+            "bdpLink": "/apartments/san-diego-ca/chollas-heights-military-housing/5Xt3mh/",
+            "bedroomGroups": [],
+            "buildingAddress": "3250 Transmitter Rd, San Diego, CA",
+            "buildingName": "Chollas Heights - Military Housing",
+            "lotId": "1002373728",
+            "latitude": null,
+            "longitude": null,
+            "maxPrice": 3579,
+            "minBaths": 1,
+            "minBeds": 2,
+            "minLivingArea": 0,
+            "minPrice": 3579,
+            "photo": {
+                "url": "https://photos.zillowstatic.com/fp/e503b24d18304a82758462ee04500644-p_d.jpg"
+            },
+            "photoCount": null,
+            "showUpdateTime": false,
+            "listingMetadata": {
+                "BuildingDataG": "false",
+                "BuildingDataH": "false",
+                "BuildingDataI": "false",
+                "BuildingDataJ": "false",
+                "BuildingDataL": "false",
+                "BuildingDataM": "false",
+                "BuildingDataN": "false",
+                "BuildingDataO": "false",
+                "BuildingDataP": "false"
+            },
+            "providerListingId": "r8ffmq9e4c0m"
+        },
+        {
+            "bdpLink": "/apartments/san-diego-ca/the-artisan/ChG3kR/",
+            "bedroomGroups": [],
+            "buildingAddress": "1601 Broadway, San Diego, CA",
+            "buildingName": "The Artisan",
+            "lotId": "2739696449",
+            "latitude": null,
+            "longitude": null,
+            "maxPrice": 4895,
+            "minBaths": 1,
+            "minBeds": 0,
+            "minLivingArea": 550,
+            "minPrice": 2299,
+            "photo": {
+                "url": "https://photos.zillowstatic.com/fp/964d2c52450c41084d5c78eccf9f3932-p_d.jpg"
+            },
+            "photoCount": null,
+            "showUpdateTime": false,
+            "listingMetadata": {
+                "BuildingDataG": "false",
+                "BuildingDataH": "false",
+                "BuildingDataI": "false",
+                "BuildingDataJ": "false",
+                "BuildingDataL": "false",
+                "BuildingDataM": "false",
+                "BuildingDataN": "false",
+                "BuildingDataO": "false",
+                "BuildingDataP": "false"
+            },
+            "providerListingId": "34wrgacpwn5dv"
+        },
+        {
+            "bdpLink": "/apartments/san-diego-ca/lantana-hills/5XjKw2/",
+            "bedroomGroups": [],
+            "buildingAddress": "5802 University Ave, San Diego, CA",
+            "buildingName": "Lantana Hills",
+            "lotId": "1001466508",
+            "latitude": null,
+            "longitude": null,
+            "maxPrice": 2550,
+            "minBaths": 1,
+            "minBeds": 1,
+            "minLivingArea": 650,
+            "minPrice": 2065,
+            "photo": {
+                "url": "https://photos.zillowstatic.com/fp/ffe2285c2dda65477a2b42e6d6c7eea7-p_d.jpg"
+            },
+            "photoCount": null,
+            "showUpdateTime": false,
+            "listingMetadata": {
+                "BuildingDataG": "false",
+                "BuildingDataH": "false",
+                "BuildingDataI": "false",
+                "BuildingDataJ": "false",
+                "BuildingDataL": "false",
+                "BuildingDataM": "false",
+                "BuildingDataN": "false",
+                "BuildingDataO": "false",
+                "BuildingDataP": "false"
+            },
+            "providerListingId": "123pt5jz82jgg"
+        }
+    ],
+    "assignedSchools": [
+        {
+            "distance": 1.3,
+            "name": "Washington Elementary School",
+            "rating": 2,
+            "level": "ELEMENTARY",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "K-5",
+            "link": "https://www.greatschools.org/california/san-diego/6253-Washington-Elementary-School/",
+            "type": "PUBLIC",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": true
+        },
+        {
+            "distance": 1.9,
+            "name": "Roosevelt International Middle School",
+            "rating": 5,
+            "level": "MIDDLE",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "6-8",
+            "link": "https://www.greatschools.org/california/san-diego/6226-Roosevelt-International-Middle-School/",
+            "type": "PUBLIC",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": true
+        },
+        {
+            "distance": 0.5,
+            "name": "San Diego High School",
+            "rating": 5,
+            "level": "HIGH",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "9-12",
+            "link": "https://www.greatschools.org/california/san-diego/14349-San-Diego-Science-And-Technology-School/",
+            "type": "PUBLIC",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": true
+        }
+    ],
+    "nearbyAmenities": [],
+    "walkScore": {
+        "walkscore": 89,
+        "description": "Very Walkable",
+        "ws_link": "https://www.walkscore.com/score/loc/lat=32.7143/lng=-117.1492/?utm_source=zillow2.com&utm_medium=ws_api&utm_campaign=ws_api"
+    },
+    "transitScore": {
+        "transit_score": 77,
+        "description": "Excellent Transit",
+        "ws_link": "https://www.walkscore.com/score/loc/lat=32.7143/lng=-117.1492/?utm_source=zillow2.com&utm_medium=ts_api&utm_campaign=ts_api"
+    },
+    "bikeScore": {
+        "bikescore": 66,
+        "description": "Bikeable"
+    },
+    "description": "City Villas is a boutique community in East Village. All available apartment homes are newly renovated!",
+    "amenityDetails": {
+        "hours": [
+            "Mon - Fri: 9:00AM - 5:00PM",
+            "Sat: Closed",
+            "Sun: Closed"
+        ],
+        "pets": [
+            "Cats",
+            "Large dogs",
+            "Small dogs"
+        ],
+        "petDetails": [],
+        "customAmenities": {
+            "rawAmenities": [
+                "Parking"
+            ]
+        },
+        "unitFeatures": [
+            "Carpet",
+            "City view",
+            "Dishwasher",
+            "Garbage disposal",
+            "Microwave oven",
+            "Oven",
+            "Range",
+            "Refrigerator",
+            "Trash compactor",
+            "Vinyl flooring",
+            "Ceiling fan",
+            "Patio/balcony",
+            "Heating: Electric"
+        ]
+    },
+    "homeInsights": null,
+    "bestMatchedUnit": {
+        "hdpUrl": "/homedetails/442726410_zpid/",
+        "unitNumber": "Unit 841303",
+        "hasApprovedThirdPartyVirtualTour": false,
+        "thirdPartyVirtualTour": null
+    },
+    "photos": [
+        {
+            "caption": "street view",
+            "mixedSources": {
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_384.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_576.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_768.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_960.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1152.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1344.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1536.webp",
+                        "width": 1536
+                    }
+                ],
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_384.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_576.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_768.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_960.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1152.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1344.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1536.jpg",
+                        "width": 1536
+                    }
+                ]
+            }
+        }
+    ],
+    "amenityPhotos": [
+        {
+            "caption": "street view",
+            "mixedSources": {
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_384.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_576.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_768.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_960.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1152.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1344.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1536.webp",
+                        "width": 1536
+                    }
+                ],
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_384.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_576.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_768.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_960.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1152.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1344.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-cc_ft_1536.jpg",
+                        "width": 1536
+                    }
+                ]
+            }
+        }
+    ],
+    "staticMapSatellite": "https://maps.googleapis.com/maps/api/staticmap?center=32.714251,-117.149195&zoom=17&size=768x576&maptype=satellite&key=AIzaSyD3b0WRWC4TBB4y3ksMtwpyV6FABvaIF7c&signature=HlJaD3vV-LugFrHybNMJAj06Frs=",
+    "streetViewLatLong": "https://maps.googleapis.com/maps/api/streetview?location=32.714251,-117.149195&size=768x576&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=8KxluT51i-BYZwMZ0tgZCOHdppg=",
+    "streetViewAddress": "https://maps.googleapis.com/maps/api/streetview?location=841%2016th%20St%2C%20San%20Diego%2C%20CA%2092101&size=768x576&key=AIzaSyD43f8iyDApUsUWNQ0kq74IHnknMgeCWm4&source=outdoor&signature=PAgpS4TQGn2nu0y_8uNxrTxj8vM=",
+    "staticMap": "https://maps.googleapis.com/maps/api/staticmap?center=32.714251,-117.149195&zoom=17&size=768x576&maptype=roadmap&key=AIzaSyD3b0WRWC4TBB4y3ksMtwpyV6FABvaIF7c&signature=K6aBtJOJE4mFIqjGbV_WqAqi7_o=",
+    "thirdPartyVirtualTours": [],
+    "detailedPetPolicy": {
+        "general": null,
+        "petPolicies": [
+            {
+                "allowed": true,
+                "comment": null,
+                "deposit": 0,
+                "description": null,
+                "feeRangeMax": null,
+                "feeRangeMin": null,
+                "maxNumberAllowed": 2,
+                "maxWeightAllowed": null,
+                "monthlyFee": null,
+                "oneTimeFee": null,
+                "petCare": null,
+                "petSize": "large",
+                "petType": "dogs",
+                "restriction": null
+            },
+            {
+                "allowed": true,
+                "comment": null,
+                "deposit": 0,
+                "description": null,
+                "feeRangeMax": null,
+                "feeRangeMin": null,
+                "maxNumberAllowed": 2,
+                "maxWeightAllowed": null,
+                "monthlyFee": null,
+                "oneTimeFee": null,
+                "petCare": null,
+                "petSize": "small",
+                "petType": "dogs",
+                "restriction": null
+            },
+            {
+                "allowed": true,
+                "comment": null,
+                "deposit": 0,
+                "description": null,
+                "feeRangeMax": null,
+                "feeRangeMin": null,
+                "maxNumberAllowed": 2,
+                "maxWeightAllowed": null,
+                "monthlyFee": null,
+                "oneTimeFee": null,
+                "petCare": null,
+                "petSize": null,
+                "petType": "cats",
+                "restriction": null
+            }
+        ]
+    },
+    "specialOffers": [
+        {
+            "description": "Apply now and move in by 12.15.24 to receive January and March free!",
+            "endDate": null
+        }
+    ],
+    "listingMetadata": {
+        "BuildingDataG": "false",
+        "BuildingDataH": "false",
+        "BuildingDataI": "false",
+        "BuildingDataJ": "false",
+        "BuildingDataK": "false",
+        "BuildingDataL": "false",
+        "BuildingDataM": "false",
+        "BuildingDataN": "false",
+        "BuildingDataO": "false",
+        "BuildingDataP": "false",
+        "BuildingDataQ": "rulesNotApplicable",
+        "BuildingDataA": false
+    },
+    "commonUnitAmenities": [
+        "Garbage Disposal",
+        "Elevator",
+        "Dishwasher",
+        "Ceiling Fan(s)",
+        "Microwave",
+        "Refrigerator",
+        "Carpet",
+        "Trash Compactor",
+        "Linoleum/Vinyl"
+    ],
+    "vaLoanStatus": null,
+    "engrain": null,
+    "homeTypes": [
+        "apartment"
+    ],
+    "providerInfoList": [],
+    "unitOverview": null,
+    "rentalCostsAndFees": {
+        "selectors": {
+            "beds": [
+                {
+                    "selector": {
+                        "displayName": "Studio",
+                        "costs": {
+                            "baseRent": {
+                                "amount": {
+                                    "displayText": null,
+                                    "max": 2200,
+                                    "min": 2200
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "zovInsight": null,
+    "signaturePhotos": [
+        {
+            "caption": "street view",
+            "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-p_d.jpg",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_576_384.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_768_512.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_960_640.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_1152_768.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_1344_896.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_1536_1024.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_576_384.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_768_512.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_960_640.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_1152_768.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_1344_896.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/8d75157f9c9133c07d1ac0a8240b9906-sc_1536_1024.webp",
+                        "width": 1536
+                    }
+                ]
+            }
+        }
+    ],
+    "unitsVRModels": null,
+    "__typename": "Building"
+}
